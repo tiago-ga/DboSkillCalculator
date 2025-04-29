@@ -6,7 +6,7 @@ sd[id]=[
   1,      // DAMAGE_TYPE
   7,      // SKILL_TYPE
   1,      // LEVEL
-  1,      // TARGET_AREA
+  1,      // TARGET_AREA, target_array matrix empieza aca
   1,      // TARGET
   1,      // MAX_TARGETS
   0,      // AOE
