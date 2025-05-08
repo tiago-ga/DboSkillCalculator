@@ -10,7 +10,7 @@ This repository contains modified versions of the Dragon Ball Online skill calcu
 ## Available Server Modifications
 
 1. **[DBO original](https://github.com/Citrinate/dboSkillCalculator)** - Skill calculator unmodified to match the original DBO's skill system [(Live Demo)](https://citrinate.github.io/dboSkillCalculator/)
-2. **[DBO Zero Server](https://github.com/tiago-ga/DboZeroSkillCalculator/tree/DboZero)** - Skill calculator modified to match DBO Zero's skill system [(Work in progress)](https://tiago-ga.github.io/DboZeroSkillCalculator/)
+2. **[DBO Zero Server](https://github.com/tiago-ga/DboZeroSkillCalculator/tree/DboZero)** - Skill calculator modified to match DBO Zero's skill system [(Work in progress)](https://dbozeroskillcalculator.onrender.com/)
 
 ## Purpose
 
