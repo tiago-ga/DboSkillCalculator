@@ -44,4 +44,4 @@ The original skill calculator was created by the Citrinate and the dbocom commun
 
 ## License
 
-[LICENSE](https://github.com/tiago-ga/DboZeroSkillCalculator/blob/DboZero/LICENSE)
+[GPL-3.0 License](https://github.com/tiago-ga/DboSkillCalculator/blob/master/LICENSE)
